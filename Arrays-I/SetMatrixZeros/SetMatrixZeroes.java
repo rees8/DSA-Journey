@@ -55,7 +55,7 @@ class Solution{
       }
     }
 
-    // If frow = truw, set elements of row0 as 0
+    // If frow = true, set elements of row0 as 0
     if(frow){
       Arrays.fill(matrix[0], 0);
     }
