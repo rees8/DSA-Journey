@@ -12,3 +12,4 @@ The solved problems will be listed below.</br>
 ### 📝 Arrays - I
 - Set Matrix Zeros (https://leetcode.com/problems/set-matrix-zeroes/description/)
 - Pascal's Triangle (https://leetcode.com/problems/pascals-triangle/description/)
+- Next Permutation (https://leetcode.com/problems/next-permutation/description/)
