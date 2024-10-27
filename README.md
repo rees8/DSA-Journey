@@ -14,3 +14,4 @@ The solved problems will be listed below.</br>
 - Pascal's Triangle (https://leetcode.com/problems/pascals-triangle/description/)
 - Next Permutation (https://leetcode.com/problems/next-permutation/description/)
 - Maximum Subarray (https://leetcode.com/problems/maximum-subarray/description/)
+- Sort Colors (https://leetcode.com/problems/sort-colors/description/)
