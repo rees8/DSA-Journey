@@ -16,3 +16,6 @@ The solved problems will be listed below.</br>
 - Maximum Subarray (https://leetcode.com/problems/maximum-subarray/description/)
 - Sort Colors (https://leetcode.com/problems/sort-colors/description/)
 - Best Time To Buy and Sell Stock (https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+
+### 📝 Arrays - II
+- Rotate Image (https://leetcode.com/problems/rotate-image/description/)
