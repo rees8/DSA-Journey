@@ -21,3 +21,4 @@ The solved problems will be listed below.</br>
 
 ### 📝 Arrays - II
 - Rotate Image (https://leetcode.com/problems/rotate-image/description/)
+- Merge Intervals (https://leetcode.com/problems/merge-intervals/description/)
