@@ -23,3 +23,4 @@ The solved problems will be listed below.</br>
 - Rotate Image (https://leetcode.com/problems/rotate-image/description/)
 - Merge Intervals (https://leetcode.com/problems/merge-intervals/description/)
 - Merge Sorted Array (https://leetcode.com/problems/merge-sorted-array/description/)
+- Find the Duplicate Number (https://leetcode.com/problems/find-the-duplicate-number/description/)
