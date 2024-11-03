@@ -28,4 +28,4 @@ Your task is to find `P` and `Q` and return them respectively.
   Where `N` is the size of the array and ‘data’ denotes the value of the elements of the array. 
 
 ---
-### Link to the problem: https://www.naukri.com/code360/problems/missing-and-repeating-numbers_6828164?utm_source=striver&utm_medium=website&utm_campaign=codestudio_a_zcourse 
+### Link to the problem: https://www.naukri.com/code360/problems/missing-and-repeating-numbers_6828164?utm_source=striver&utm_medium=website&utm_campaign=codestudio_a_zcourse&leftPanelTabValue=PROBLEM 
