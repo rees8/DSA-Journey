@@ -24,4 +24,4 @@ The solved problems will be listed below.</br>
 - Merge Intervals [Solve problem](https://leetcode.com/problems/merge-intervals/description/)
 - Merge Sorted Array [Solve problem](https://leetcode.com/problems/merge-sorted-array/description/)
 - Find the Duplicate Number [Solve problem](https://leetcode.com/problems/find-the-duplicate-number/description/)
-- Missing and Repeating Numbers [Solve problem](https://www.naukri.com/code360/problems/missing-and-repeating-numbers_6828164?utm_source=striver&utm_medium=website&utm_campaign=codestudio_a_zcourse&leftPanelTabValue=SUBMISSION)
+- Missing and Repeating Numbers [Solve problem](https://www.naukri.com/code360/problems/missing-and-repeating-numbers_6828164?utm_source=striver&utm_medium=website&utm_campaign=codestudio_a_zcourse&leftPanelTabValue=PROBLEM)
