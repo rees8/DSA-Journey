@@ -10,7 +10,7 @@ The solved problems will be listed below.</br>
 # Problems solved
 
 ### 📝 Arrays - I
-- Set Matrix Zeros (https://leetcode.com/problems/set-matrix-zeroes/description/)
+- Set Matrix Zeros [Solve problem](https://leetcode.com/problems/set-matrix-zeroes/description/)
 - Pascal's Triangle (https://leetcode.com/problems/pascals-triangle/description/)
 - Next Permutation (https://leetcode.com/problems/next-permutation/description/)
 - Maximum Subarray (https://leetcode.com/problems/maximum-subarray/description/)
@@ -24,3 +24,4 @@ The solved problems will be listed below.</br>
 - Merge Intervals (https://leetcode.com/problems/merge-intervals/description/)
 - Merge Sorted Array (https://leetcode.com/problems/merge-sorted-array/description/)
 - Find the Duplicate Number (https://leetcode.com/problems/find-the-duplicate-number/description/)
+- Missing and Repeating Numbers (https://www.naukri.com/code360/problems/missing-and-repeating-numbers_6828164?utm_source=striver&utm_medium=website&utm_campaign=codestudio_a_zcourse&leftPanelTabValue=SUBMISSION)
