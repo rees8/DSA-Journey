@@ -20,4 +20,4 @@ You have to rotate the image **in-place**, which means you have to modify the in
 - `-1000 <= matrix[i][j] <= 1000`
 
 ---
-### Link to the problem: https://leetcode.com/problems/rotate-image/description/
+### Link to the problem: [Solve problem](https://leetcode.com/problems/rotate-image/description/)
