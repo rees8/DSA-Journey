@@ -17,4 +17,4 @@ In Pascal's triangle, each number is the sum of the two numbers directly above i
 - `1 <= numRows <= 30`
 
 ---
-### Link to the problem: https://leetcode.com/problems/pascals-triangle/description/
+### Link to the problem: [Solve problem](https://leetcode.com/problems/pascals-triangle/description/)
