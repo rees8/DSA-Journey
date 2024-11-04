@@ -21,4 +21,4 @@ You must solve this problem without using the library's sort function.
 - `1 <= n <= 300`
 
 ---
-### Link to the problem: https://leetcode.com/problems/sort-colors/description/
+### Link to the problem: [Solve problem](https://leetcode.com/problems/sort-colors/description/)
