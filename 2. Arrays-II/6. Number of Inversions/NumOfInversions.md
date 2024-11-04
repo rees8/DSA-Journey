@@ -31,4 +31,4 @@ You must return the number of inversions in the array.
 - `Time Limit: 1 sec` 
 
 ---
-### Link to the problem: [Solve problem](https://www.naukri.com/code360/problems/number-of-inversions_6840276?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_Arrayproblems&isSignin=true)
+### Link to the problem: [Solve problem](https://www.naukri.com/code360/problems/number-of-inversions_6840276?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_Arrayproblems&isSignin=true&leftPanelTabValue=PROBLEM)
