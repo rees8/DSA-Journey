@@ -23,4 +23,4 @@ Return the maximum profit you can achieve from this transaction. If you cannot a
 - `0 <= prices[i] <= 10^4`
 
 ---
-### Link to the problem: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+### Link to the problem: [Solve problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
