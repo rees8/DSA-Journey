@@ -20,4 +20,4 @@ It must be done `in place`.
 - `-2^31 <= matrix[i][j] <= 2^31 - 1`
 
 ---
-### Link to the problem: https://leetcode.com/problems/set-matrix-zeroes/description/
+### Link to the problem: [Solve problem](https://leetcode.com/problems/set-matrix-zeroes/description/)
