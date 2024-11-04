@@ -27,4 +27,4 @@ You must solve the problem **without** modifying the array `nums` and using only
 - All the integers in `nums` appear only **once** except for **precisely one integer** which appears **two or more** times.
 
 ---
-### Link to the problem: https://leetcode.com/problems/find-the-duplicate-number/description/
+### Link to the problem: [Solve problem](https://leetcode.com/problems/find-the-duplicate-number/description/)
