@@ -34,4 +34,4 @@ The replacement must be `in place` and use only constant extra memory.</br>
 - `0 <= nums[i] <= 100`
 
 ---
-### Link to the problem: https://leetcode.com/problems/next-permutation/description/
+### Link to the problem: [Solve problem](https://leetcode.com/problems/next-permutation/description/)
