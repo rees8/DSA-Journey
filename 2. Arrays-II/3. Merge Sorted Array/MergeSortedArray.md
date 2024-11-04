@@ -33,4 +33,4 @@ To accommodate this, `nums1` has a length of `m + n`, where the first `m` elemen
 - `-10^9 <= nums1[i], nums2[j] <= 10^9`
 
 ---
-### Link to the problem: https://leetcode.com/problems/merge-sorted-array/description/
+### Link to the problem: [Solve problem](https://leetcode.com/problems/merge-sorted-array/description/)
