@@ -20,4 +20,4 @@ Given an array of `intervals` where `intervals[i] = [starti, endi]`, merge all o
 - `0 <= starti <= endi <= 10^4`
 
 ---
-### Link to the problem: https://leetcode.com/problems/merge-intervals/description/
+### Link to the problem: [Solve problem](https://leetcode.com/problems/merge-intervals/description/)
