@@ -26,3 +26,8 @@ The solved problems will be listed below.</br>
 - Find the Duplicate Number [Solve problem](https://leetcode.com/problems/find-the-duplicate-number/description/)
 - Missing and Repeating Numbers [Solve problem](https://www.naukri.com/code360/problems/missing-and-repeating-numbers_6828164?utm_source=striver&utm_medium=website&utm_campaign=codestudio_a_zcourse&leftPanelTabValue=PROBLEM)
 - Number of Inversions [Solve problem](https://www.naukri.com/code360/problems/number-of-inversions_6840276?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_Arrayproblems&isSignin=true&leftPanelTabValue=PROBLEM)
+
+---
+
+### 📝 Arrays - III
+- Search a 2D Matrix [Solve problem](https://leetcode.com/problems/search-a-2d-matrix/description/)
