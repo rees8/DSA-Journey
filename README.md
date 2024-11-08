@@ -31,3 +31,4 @@ The solved problems will be listed below.</br>
 
 ### 📝 Arrays - III
 - Search a 2D Matrix [Solve problem](https://leetcode.com/problems/search-a-2d-matrix/description/)
+- Pow(x, n) [Solve problem](https://leetcode.com/problems/powx-n/description/)
