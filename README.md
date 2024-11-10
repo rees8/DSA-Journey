@@ -11,24 +11,24 @@ The solved problems will be listed below.</br>
 
 ### 📝 Arrays - I
 - Set Matrix Zeros [Visit directory](https://github.com/rees8/DSA-Journey/tree/main/1.%20Arrays-I/1.%20Set%20Matrix%20Zeroes)
-- Pascal's Triangle [Solve problem](https://leetcode.com/problems/pascals-triangle/description/)
-- Next Permutation [Solve problem](https://leetcode.com/problems/next-permutation/description/)
-- Maximum Subarray [Solve problem](https://leetcode.com/problems/maximum-subarray/description/)
-- Sort Colors [Solve problem](https://leetcode.com/problems/sort-colors/description/)
-- Best Time To Buy and Sell Stock [Solve problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+- Pascal's Triangle [Visit directory](https://github.com/rees8/DSA-Journey/tree/main/1.%20Arrays-I/2.%20Pascal's%20Triangle)
+- Next Permutation [Visit directory](https://github.com/rees8/DSA-Journey/tree/main/1.%20Arrays-I/3.%20Next%20Permutation)
+- Maximum Subarray [Visit directory](https://github.com/rees8/DSA-Journey/tree/main/1.%20Arrays-I/4.%20Maximum%20Subarray)
+- Sort Colors [Visit directory](https://github.com/rees8/DSA-Journey/tree/main/1.%20Arrays-I/5.%20Sort%20Colors)
+- Best Time To Buy and Sell Stock [Visit directory](https://github.com/rees8/DSA-Journey/tree/main/1.%20Arrays-I/6.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)
 
 ---
 
 ### 📝 Arrays - II
-- Rotate Image [Solve problem](https://leetcode.com/problems/rotate-image/description/)
-- Merge Intervals [Solve problem](https://leetcode.com/problems/merge-intervals/description/)
-- Merge Sorted Array [Solve problem](https://leetcode.com/problems/merge-sorted-array/description/)
-- Find the Duplicate Number [Solve problem](https://leetcode.com/problems/find-the-duplicate-number/description/)
-- Missing and Repeating Numbers [Solve problem](https://www.naukri.com/code360/problems/missing-and-repeating-numbers_6828164?utm_source=striver&utm_medium=website&utm_campaign=codestudio_a_zcourse&leftPanelTabValue=PROBLEM)
-- Number of Inversions [Solve problem](https://www.naukri.com/code360/problems/number-of-inversions_6840276?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_Arrayproblems&isSignin=true&leftPanelTabValue=PROBLEM)
+- Rotate Image [Visit directory](https://github.com/rees8/DSA-Journey/tree/main/2.%20Arrays-II/1.%20Rotate%20Image)
+- Merge Intervals [Visit directory](https://github.com/rees8/DSA-Journey/tree/main/2.%20Arrays-II/2.%20Merge%20Intervals)
+- Merge Sorted Array [Visit directory](https://github.com/rees8/DSA-Journey/tree/main/2.%20Arrays-II/3.%20Merge%20Sorted%20Array)
+- Find the Duplicate Number [Visit directory](https://github.com/rees8/DSA-Journey/tree/main/2.%20Arrays-II/4.%20Find%20The%20Duplicate%20Number)
+- Missing and Repeating Numbers [Visit directory](https://github.com/rees8/DSA-Journey/tree/main/2.%20Arrays-II/5.%20Missing%20And%20Repeating%20Numbers)
+- Number of Inversions [Visit directory](https://github.com/rees8/DSA-Journey/tree/main/2.%20Arrays-II/6.%20Number%20of%20Inversions)
 
 ---
 
 ### 📝 Arrays - III
-- Search a 2D Matrix [Solve problem](https://leetcode.com/problems/search-a-2d-matrix/description/)
-- Pow(x, n) [Solve problem](https://leetcode.com/problems/powx-n/description/)
+- Search a 2D Matrix [Visit directory](https://github.com/rees8/DSA-Journey/tree/main/3.%20Arrays-III/1.%20Search%20a%202-D%20Matrix)
+- Pow(x, n) [Visit directory](https://github.com/rees8/DSA-Journey/tree/main/3.%20Arrays-III/2.%20Pow(x%2C%20n))
