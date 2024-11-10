@@ -10,7 +10,7 @@ The solved problems will be listed below.</br>
 # Problems solved
 
 ### 📝 Arrays - I
-- Set Matrix Zeros [Solve problem](https://leetcode.com/problems/set-matrix-zeroes/description/)
+- Set Matrix Zeros [Visit directory](https://github.com/rees8/DSA-Journey/tree/main/1.%20Arrays-I/1.%20Set%20Matrix%20Zeroes)
 - Pascal's Triangle [Solve problem](https://leetcode.com/problems/pascals-triangle/description/)
 - Next Permutation [Solve problem](https://leetcode.com/problems/next-permutation/description/)
 - Maximum Subarray [Solve problem](https://leetcode.com/problems/maximum-subarray/description/)
