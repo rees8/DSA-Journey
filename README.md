@@ -32,3 +32,4 @@ The solved problems will be listed below.</br>
 ### 📝 Arrays - III
 - Search a 2D Matrix [Visit directory](https://github.com/rees8/DSA-Journey/tree/main/3.%20Arrays-III/1.%20Search%20a%202-D%20Matrix)
 - Pow(x, n) [Visit directory](https://github.com/rees8/DSA-Journey/tree/main/3.%20Arrays-III/2.%20Pow(x%2C%20n))
+- Majority Element (>n by 2 times) [Visit directory](https://github.com/rees8/DSA-Journey/tree/main/3.%20Arrays-III/3.%20Majority%20Element%20(%3En%20by%202%20times))
